@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFACD&height=250&section=header&text=VICTORY&fontColor=8080803&fontSize=45&fontAlignY=40" />  
+
   
   ### **:star:interested:star:**<br>
   Deep Learning<br>
@@ -19,6 +20,7 @@
   <br>
   <br>
   <br>
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFE55C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HELLO&edge_flat=false)](https://hits.seeyoufarm.com)
   <br>
   <br>
   <br>
