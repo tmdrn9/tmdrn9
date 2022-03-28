@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFACD&height=250&section=header&text=VICTORY&fontColor=8080803&fontSize=45&fontAlignY=40" />  
 
   
-  ### **:star:interested:star:**<br>
+  ### **:star:Interested:star:**<br>
   Deep Learning<br>
   Machine Learning<br>
   Image processing<br>
