@@ -23,13 +23,13 @@
   ### 📚School📚 <br>
   <br>
   
-  -2018~2022 한림대학교 공과대학 전자공학과
+  2018~2022 / 한림대학교 공과대학 전자공학과
   
-  -2019~2022 한림대학교 소프트웨어융합대학 빅데이터전공(복수전공)
+  2019~2022 / 한림대학교 소프트웨어융합대학 빅데이터전공(복수전공)
   
-  -2021~2022 한림대학교 MMC 연구실 (Multimedia Computing Lab) 학부연구생
+  2021~2022 / 한림대학교 MMC 연구실 (Multimedia Computing Lab) 학부연구생
   
-  -2022.08 한림대학교 학부 졸업예정
+  2022.08 / 한림대학교 학부 졸업예정
   
   <br>
   <br>
@@ -37,13 +37,13 @@
   ### 🎵Activity🎵 <br>
   <br>
   
-  -2018 한림대학교 전자공학과 학생회 기획부
+  2018 / 한림대학교 전자공학과 학생회 기획부
   
-  -2019 한림대학교 전자공학과(현 스마트 IoT) 학생회 홍보부
+  2019 / 한림대학교 전자공학과(현 스마트 IoT) 학생회 홍보부
 
-  -2019 한림대학교 전자공학과 학술동아리 멀티플렉스 총무
+  2019 / 한림대학교 전자공학과 학술동아리 멀티플렉스 총무
   
-  -2022~ 삼성메디슨 인턴
+  2022~ / 삼성메디슨 인턴
   
   <br>
   <br>
@@ -51,17 +51,17 @@
   ### 🏆Contest🏆 <br>
   <br>
   
-  -Dacon 카메라 이미지 품질 향상 AI 경진대회 (110/228)
+  Dacon - 카메라 이미지 품질 향상 AI 경진대회 (110/228)
   
-  -Kaggle MOAI 2021 Body Morphometry AI Segmentation Online Challenge (10/27)
+  Kaggle - MOAI 2021 Body Morphometry AI Segmentation Online Challenge (10/27)
 
-  -한림대학교 HBC-5 딥러닝 해커톤 (금상)
+  한림대학교 - HBC-5 딥러닝 해커톤 (금상)
 
-  -한림대학교 Hallym AI + X R&D challenge - Track05 (금상)
+  한림대학교 - Hallym AI + X R&D challenge - Track05 (금상)
 
-  -한림대학교 Hallym AI + X R&D challenge - Track04 (은상)
+  한림대학교 - Hallym AI + X R&D challenge - Track04 (은상)
 
-  -Dacon Computer Vision 이상치 탐지 알고리즘 경진대회 (진행중)
+  Dacon - Computer Vision 이상치 탐지 알고리즘 경진대회 (진행중)
 
   <br>
   <br>
