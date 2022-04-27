@@ -51,17 +51,19 @@
   ### 🏆Contest🏆 <br>
   <br>
   
-  Dacon - 카메라 이미지 품질 향상 AI 경진대회 (110/228)
+  Dacon - 카메라 이미지 품질 향상 AI 경진대회 (110/228) [**[Repository]**](https://github.com/tmdrn9/Improving_the_quality_of_the_camera)
   
-  Kaggle - MOAI 2021 Body Morphometry AI Segmentation Online Challenge (10/27)
+  Kaggle - MOAI 2021 Body Morphometry AI Segmentation Online Challenge (10/27) [**[Repository]**](https://github.com/tmdrn9/Body_Morphometry_Kidney_and_Tumor)
 
-  한림대학교 - HBC-5 딥러닝 해커톤 (금상)
+  한림대학교 - HBC-5 딥러닝 해커톤 (금상) [**[Repository]**](https://github.com/tmdrn9/HBC-Hackathon)
+  
+  한림대학교 - 2021 Hallym University Capstone Design [**[Repository]**](https://github.com/tmdrn9/Capstone)
 
   한림대학교 - Hallym AI + X R&D challenge - Track05 (금상)
 
-  한림대학교 - Hallym AI + X R&D challenge - Track04 (은상)
+  한림대학교 - Hallym AI + X R&D challenge - Track04 (은상) 
 
-  Dacon - Computer Vision 이상치 탐지 알고리즘 경진대회 (진행중)
+  Dacon - Computer Vision 이상치 탐지 알고리즘 경진대회 (진행중) [**[Repository]**](https://github.com/tmdrn9/Computer_Vision_Anomaly_Detection_Algorithm)
   
   Dacon - 생육 환경 최적화 경진대회 (진행중)
 
