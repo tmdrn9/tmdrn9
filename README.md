@@ -51,7 +51,7 @@
   ### 🏆Contest🏆 <br>
   <br>
   
-  한국연구재단 / LINC+사업(산학협력 고도화형) 전국 캡스톤디자인경진대회 - Team name : RUN-UP (우수상)
+  한국연구재단 / 2019 LINC+사업(산학협력 고도화형) 전국 캡스톤디자인경진대회 - Team name : RUN-UP (우수상)
   
   Dacon / 카메라 이미지 품질 향상 AI 경진대회 (110/228) [**[Repository]**](https://github.com/tmdrn9/Improving_the_quality_of_the_camera)
   
