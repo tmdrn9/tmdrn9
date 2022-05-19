@@ -65,7 +65,7 @@
 
   한림대학교 / Hallym AI + X R&D challenge - Track04 (은상) 
 
-  Dacon / Computer Vision 이상치 탐지 알고리즘 경진대회 (진행중) [**[Repository(private)]**](https://github.com/tmdrn9/Computer_Vision_Anomaly_Detection_Algorithm)
+  Dacon / Computer Vision 이상치 탐지 알고리즘 경진대회 (66/481) [**[Repository]**](https://github.com/tmdrn9/Computer_Vision_Anomaly_Detection_Algorithm)
   
   Dacon / 생육 환경 최적화 경진대회 (진행중)
 
