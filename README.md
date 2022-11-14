@@ -70,6 +70,8 @@
   Dacon / Computer Vision 이상치 탐지 알고리즘 경진대회 (66/481) [**[Repository]**](https://github.com/tmdrn9/Computer_Vision_Anomaly_Detection_Algorithm)
   
   Dacon / 생육 환경 최적화 경진대회 (27/136) [**[Repository]**](https://github.com/tmdrn9/Optimizing_the_Growth_Environment)
+  
+  aiconnect/군 정찰 자산 활용서 극대화를 위한 AI Computer vision 예선 (9/57)(본선 진출) [**[Repository]**](https://github.com/tmdrn9/Building_Change_Detection)
 
   <br>
   <br>
