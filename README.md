@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFACD&height=250&section=header&text=VICTORY'S SPACE&fontColor=8080803&fontSize=45&fontAlignY=40" />  
 
   
   ### **:star:Interested:star:**<br>
