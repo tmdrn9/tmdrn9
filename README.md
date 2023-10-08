@@ -6,6 +6,7 @@
   Deep Learning<br>
   Machine Learning<br>
   Image processing<br>
+  Image/3D forensic<br>
 
   <br>
   <br>
