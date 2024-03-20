@@ -25,9 +25,9 @@
   ### 📚Publication📚 <br>
   <br>
   
-  Hong, S. J., Hou, J. U., Chung, M. J., Kang, S. H., Shim, B. **S., Lee**, S. L., ... & Park, S. W., "Convolutional neural network model for automatic recognition and classification of pancreatic cancer cell based on analysis of lipid droplet on unlabeled sample by 3D optical diffraction tomography" Computer Methods and Programs in Biomedicine, 2024.
+  Hong, S. J., Hou, J. U., Chung, M. J., Kang, S. H., Shim, B. **S., Lee**, S. L., ... & Park, S. W., "Convolutional neural network model for automatic recognition and classification of pancreatic cancer cell based on analysis of lipid droplet on unlabeled sample by 3D optical diffraction tomography" Computer Methods and Programs in Biomedicine, 2024. [**[Project page]**](https://github.com/tmdrn9/Medical-Identification_of_pancreatic_cancer)
   
-  J. H. Choe, **S. Lee**, Y. Seo, W. Seo, J.-H. Hou, "Generative Adversarial Networks Based Data Augmentation to Address Medical Data Imbalances", in Korea Information Processing Society ACK, 2022.
+  J. H. Choe, **S. Lee**, Y. Seo, W. Seo, J.-H. Hou, "Generative Adversarial Networks Based Data Augmentation to Address Medical Data Imbalances", in Korea Information Processing Society ACK, 2022. [**[Project page]**](https://github.com/tmdrn9/Capston-GAN_based_Synthetic_Medical_Image_Augmentation)
   
   <br>
   <br>
