@@ -24,6 +24,9 @@
 
   ### 📚Publication📚 <br>
   <br>
+
+  **Lee, Seung-Lee**, Minjae Kang, and Jong-Uk Hou. "Localization of diffusion model-based inpainting through the inter-intra similarity of frequency features." Image and Vision Computing (2024): 105138. [**[Project page]**](https://github.com/tmdrn9/Localization-of-Diffusion-Model-Based-Inpainting) [**[Paper]**](https://www.sciencedirect.com/science/article/pii/S0262885624002427)
+  
   
   Hong, S. J., Hou, J. U., Chung, M. J., Kang, S. H., Shim, B. **S., Lee**, S. L., ... & Park, S. W., "Convolutional neural network model for automatic recognition and classification of pancreatic cancer cell based on analysis of lipid droplet on unlabeled sample by 3D optical diffraction tomography" Computer Methods and Programs in Biomedicine, 2024. [**[Project page]**](https://github.com/tmdrn9/Medical-Identification_of_pancreatic_cancer) [**[Paper]**](https://www.sciencedirect.com/science/article/pii/S0169260724000373)
   
