@@ -1,4 +1,6 @@
 # 새로운 것에 도전할 줄 아는 이승리 입니다 😊
+
+  ### 🔎[**CV Page**](https://sites.google.com/view/seung-lee-lee/%ED%99%88)🔎
   
   ### **:star:Interested:star:**<br>
   <br>
@@ -13,11 +15,11 @@
   ### 🏫School🏫 <br>
   <br>
   
-  2018.03~2022.08 / 한림대학교 공과대학 전자공학과
-  
+  2022.09~2024.08 / 한림대학교 컴퓨터학과 석사과정 [**[MMC Lab]**](https://sites.google.com/view/juhouhallym/home)
+
   2019.03~2022.08 / 한림대학교 소프트웨어융합대학 빅데이터전공(복수전공)
   
-  2022.09~2024.08 / 한림대학교 컴퓨터학과 석사과정 [**[MMC Lab]**](https://sites.google.com/view/juhouhallym/home)
+  2018.03~2022.08 / 한림대학교 공과대학 전자공학과
   
   <br>
   <br>
@@ -37,34 +39,32 @@
   
   ### 🎵Activity🎵 <br>
   <br>
-  
-  2018 / 한림대학교 전자공학과 학생회 기획부
-  
-  2019 / 한림대학교 전자공학과(현 스마트 IoT) 학생회 홍보부
+  2022.01~06 / 삼성메디슨 인턴
+
+  2021~2022 / 한림대학교 MMC 연구실 (Multimedia Computing Lab) 학부연구생
 
   2019 / 한림대학교 전자공학과 학술동아리 멀티플렉스 총무
+
+  2019 / 한림대학교 전자공학과(현 스마트 IoT) 학생회 홍보부
   
-  2021~2022 / 한림대학교 MMC 연구실 (Multimedia Computing Lab) 학부연구생
-  
-  2022.01~06 / 삼성메디슨 인턴
+  2018 / 한림대학교 전자공학과 학생회 기획부
   
   <br>
   <br>
   
   ### 🏆Award🏆 <br>
   <br>
-  
-  한국연구재단 / 2019 LINC+사업(산학협력 고도화형) 전국 캡스톤디자인경진대회 우수상 - Team name : RUN-UP
-
-  한림대학교 / HBC-5 딥러닝 해커톤 금상 [**[Repository]**](https://github.com/tmdrn9/HBC-Hackathon)
-
-  한림대학교 / Hallym AI + X R&D challenge - Track05 금상
-
-  한림대학교 / Hallym AI + X R&D challenge - Track04 은상
+  aiconnect/군 정찰 자산 활용서 극대화를 위한 AI Computer vision 예선 (9/57)(본선 진출) [**[Repository]**] (https://github.com/tmdrn9/Building_Change_Detection)
 
   한국정보처리학회 / 추계학술대회(ACK) 우수논문상
 
-  aiconnect/군 정찰 자산 활용서 극대화를 위한 AI Computer vision 예선 (9/57)(본선 진출) [**[Repository]**](https://github.com/tmdrn9/Building_Change_Detection)
+  한림대학교 / Hallym AI + X R&D challenge - Track04 은상
+
+  한림대학교 / Hallym AI + X R&D challenge - Track05 금상
+
+  한림대학교 / HBC-5 딥러닝 해커톤 금상 [**[Repository]**](https://github.com/tmdrn9/HBC-Hackathon)
+  
+  한국연구재단 / 2019 LINC+사업(산학협력 고도화형) 전국 캡스톤디자인경진대회 우수상 - Team name : RUN-UP
 
   <br>
   <br>
