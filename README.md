@@ -1,6 +1,7 @@
 # 새로운 것에 도전할 줄 아는 이승리 입니다 😊
 
-  ### 🔎[**CV Page**](https://sites.google.com/view/seung-lee-lee/%ED%99%88)🔎
+  ### 🔎[**CV Page**](https://sites.google.com/view/seung-lee-lee/%ED%99%88)🔎<br>
+
   
   ### **:star:Interested:star:**<br>
   <br>
@@ -53,8 +54,7 @@
   <br>
   
   ### 🏆Award🏆 <br>
-  <br>
-  aiconnect/군 정찰 자산 활용서 극대화를 위한 AI Computer vision 예선 (9/57)(본선 진출) [**[Repository]**] (https://github.com/tmdrn9/Building_Change_Detection)
+  <br>aiconnect/군 정찰 자산 활용서 극대화를 위한 AI Computer vision 예선 (9/57)(본선 진출) [**[Repository]**](https://github.com/tmdrn9/Building_Change_Detection)
 
   한국정보처리학회 / 추계학술대회(ACK) 우수논문상
 
