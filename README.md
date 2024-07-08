@@ -16,7 +16,7 @@
   ### 🏫School🏫 <br>
   <br>
   
-  2022.09~2024.08 / 한림대학교 컴퓨터학과 석사과정 [**[MMC Lab]**](https://sites.google.com/view/juhouhallym/home)
+  2022.09~2024.08 / 한림대학교 컴퓨터학과 석사과정 [**[MMC Lab]**](https://mmc.hallym.ac.kr/)
 
   2019.03~2022.08 / 한림대학교 소프트웨어융합대학 빅데이터전공(복수전공)
   
