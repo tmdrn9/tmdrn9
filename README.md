@@ -1,7 +1,5 @@
 # 새로운 것에 도전할 줄 아는 이승리 입니다 😊
 
-  ### 🔎[**CV Page**](https://sites.google.com/view/seung-lee-lee/%ED%99%88)🔎<br>
-
   
   ### **:star:Interested:star:**<br>
   <br>
