@@ -5,8 +5,8 @@
   <br>
   Deep Learning<br>
   Machine Learning<br>
-  Image processing<br>
-  Forensic/medical<br>
+  Image Processing<br>
+  Forensic/Medical<br>
 
   <br>
   <br>
