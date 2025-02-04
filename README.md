@@ -26,6 +26,8 @@
   ### 📚Publication📚 <br>
   <br>
 
+  Kim, C., Kang, M., Yuh, W. T., **Lee, S. L.**, Lee, J. J., Hou, J. U., & Kang, S. H., “Comparative efficacy of anteroposterior and lateral X-ray based deep learning in the detection of osteoporotic vertebral compression fracture.” Scientific Reports, 2024. [**[Paper]**](https://www.nature.com/articles/s41598-024-79610-w)
+
   **Lee, Seung-Lee**, Minjae Kang, and Jong-Uk Hou. "Localization of diffusion model-based inpainting through the inter-intra similarity of frequency features." Image and Vision Computing (2024): 105138. [**[Project page]**](https://github.com/tmdrn9/Localization-of-Diffusion-Model-Based-Inpainting) [**[Paper]**](https://www.sciencedirect.com/science/article/pii/S0262885624002427)
   
   
