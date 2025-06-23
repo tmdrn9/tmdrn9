@@ -26,7 +26,9 @@
   ### 📚Publication📚 <br>
   <br>
 
-  Kim, C., Kang, M., Yuh, W. T., **Lee, S. L.**, Lee, J. J., Hou, J. U., & Kang, S. H., “Comparative efficacy of anteroposterior and lateral X-ray based deep learning in the detection of osteoporotic vertebral compression fracture.” Scientific Reports, 2024. [**[Paper]**](https://www.nature.com/articles/s41598-024-79610-w)
+  Se Woo Park, Hee Chan Moon, Seok Jin Hong, Anna Choi, **Seung-Lee Lee**, Da Hae Park, Eun Shin, Jung Hyun Jo, Dong Hee Koh, Jin Lee, Jong-Uk Hou†, Kyong Joo Lee†, "Enhancing biliary tract cancer diagnosis using AI-driven 3D optical diffraction tomography", Methods, 2025. [**[Paper]**](https://www.sciencedirect.com/science/article/abs/pii/S1046202325001434)
+
+  Kim, C., Kang, M., Yuh, W. T., **Lee, S. L.**, Lee, J. J., Hou, J. U., & Kang, S. H., "Comparative efficacy of anteroposterior and lateral X-ray based deep learning in the detection of osteoporotic vertebral compression fracture." Scientific Reports, 2024. [**[Paper]**](https://www.nature.com/articles/s41598-024-79610-w)
 
   **Lee, Seung-Lee**, Minjae Kang, and Jong-Uk Hou. "Localization of diffusion model-based inpainting through the inter-intra similarity of frequency features." Image and Vision Computing (2024): 105138. [**[Project page]**](https://github.com/tmdrn9/Localization-of-Diffusion-Model-Based-Inpainting) [**[Paper]**](https://www.sciencedirect.com/science/article/pii/S0262885624002427)
   
@@ -71,11 +73,6 @@
   ### :pushpin:Contact Me:pushpin:<br>
   <a href="tmdrn9912@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://www.instagram.com/tmdrn99/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   
-  <br>
-  <br>
-  <br>
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftmdrn9&count_bg=%23FFE55C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HELLO&edge_flat=false)](https://hits.seeyoufarm.com)
   <br>
   <br>
   <br>
