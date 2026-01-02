@@ -12,6 +12,7 @@ ORCID: <a href="https://orcid.org/0009-0007-1512-4988" target="_blank">https://o
 (Jan 2022 – Jun 2022) &nbsp;Intern at Samsung Medison<br>
 (Mar 2018 – Aug 2022) &nbsp;B.S. in Electronics, <a href="https://mmc.hallym.ac.kr/" target="_blank">Multimedia Computing Laboratory (MMC)</a><br>
 
+<br>
 
 Papers:
 - **Lee, S. L.**, Kang, M., Shim, B. S. and Hou, J. U.†, "Robust 3D Watermarking for NeRF-Induced Modality Shifts" ACM Transactions on Multimedia Computing, Communications and Applications, 2025
